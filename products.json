@@ -1,0 +1,32 @@
+{
+    "premium": {
+        "id": 0,
+        "name": "Premium",
+        "price": 10,
+        "content": [
+            "Farbig Schreiben",
+            "Clan Name - 5 Zeichen",
+            "Maximal 4 Homes"
+        ]
+    },
+
+    "prime": {
+        "id": 1,
+        "name": "Prime",
+        "price": 25,
+        "content": [
+            "tolle dinge",
+            "yo"
+        ]
+    },
+
+    "epic": {
+        "id": 2,
+        "name": "Epic",
+        "price": 50,
+        "content": [
+            "epische dinge",
+            "yo"
+        ]
+    }
+}
