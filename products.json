@@ -5,28 +5,57 @@
         "price": 10,
         "content": [
             "Farbig Schreiben",
-            "Clan Name - 5 Zeichen",
-            "Maximal 4 Homes"
+            "Farbige Schilder",
+            "Maximal 4 Homes",
+            "Maximal 6 Plots",
+            "Teleportzeit 2.5 Sekunden",
+            "Premium Discord-Rang",
+            "/eat /feed",
+            "/endersee",
+            "/list",
+            "/back"
         ]
     },
-
     "prime": {
         "id": 1,
         "name": "Prime",
         "price": 25,
         "content": [
-            "tolle dinge",
-            "yo"
+            "Farbig Schreiben",
+            "Farbige Schilder",
+            "Maximal 6 Homes",
+            "Maximal 8 Plots",
+            "Teleportzeit 2 Sekunden",
+            "Prime Discord-Rang",
+            "/eat /feed",
+            "/endersee",
+            "/list",
+            "/back",
+            "/heal",
+            "/tpahere",
+            "/invsee"
         ]
     },
-
     "epic": {
         "id": 2,
         "name": "Epic",
         "price": 50,
         "content": [
-            "epische dinge",
-            "yo"
+            "Farbig Schreiben",
+            "Farbige Schilder",
+            "Maximal 10 Homes",
+            "Maximal 9 Plots",
+            "Teleportzeit 1.5 Sekunden",
+            "Prime Discord-Rang",
+            "/eat /feed",
+            "/endersee",
+            "/list",
+            "/back",
+            "/heal",
+            "/tpahere",
+            "/invsee",
+            "/p alias set",
+            "/fly"
         ]
     }
 }
