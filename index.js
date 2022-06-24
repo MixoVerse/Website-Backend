@@ -133,7 +133,7 @@ app.get(config.prefix + '/prepareorder', async(req, res, next) => {
         },
         description: `MixoVerse | ${product.name} | ${name}`,
         redirectUrl: config.url + '/shopsuccess',
-        webhookUrl: config.url + config.prefix + '/webhook'
+        webhookUrl: config.api_url + config.prefix + '/webhook'
     });
 
     res.json({
@@ -173,7 +173,7 @@ app.get(config.prefix + '/preparedonation', async(req, res, next) => {
         },
         description: `MixoVerse | Spende | ${name}`,
         redirectUrl: config.url + '/donationsuccess',
-        webhookUrl: config.url + config.prefix + '/webhook'
+        webhookUrl: config.api_url + config.prefix + '/webhook'
     });
 
     res.json({

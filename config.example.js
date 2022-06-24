@@ -1,7 +1,9 @@
 module.exports = {
 
     // Root URL
-    url: 'https://mixo.xenorio.xyz',
+    url: 'https://mixoverse.net',
+
+    api_url: 'https://api.mixoverse.net',
 
     // API URL prefix
     prefix: '/api',
