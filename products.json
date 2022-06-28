@@ -10,10 +10,8 @@
             "Maximal 6 Plots",
             "Teleportzeit 2.5 Sekunden",
             "Premium Discord-Rang",
-            "/eat /feed",
-            "/endersee",
-            "/list",
-            "/back"
+            "Enderkisten Einsehen",
+            "/list"
         ]
     },
     "prime": {
@@ -27,13 +25,10 @@
             "Maximal 8 Plots",
             "Teleportzeit 2 Sekunden",
             "Prime Discord-Rang",
-            "/eat /feed",
-            "/endersee",
+            "Enderkisten Einsehen",
             "/list",
-            "/back",
-            "/heal",
             "/tpahere",
-            "/invsee"
+            "Inventare Einsehen"
         ]
     },
     "epic": {
@@ -46,16 +41,13 @@
             "Maximal 10 Homes",
             "Maximal 9 Plots",
             "Teleportzeit 1.5 Sekunden",
-            "Prime Discord-Rang",
-            "/eat /feed",
-            "/endersee",
+            "Epic Discord-Rang",
+            "Enderkisten Einsehen",
             "/list",
-            "/back",
-            "/heal",
             "/tpahere",
-            "/invsee",
-            "/p alias set",
-            "/fly"
+            "Inventare Einsehen",
+            "Grundstück Alias",
+            "Fly in der Plotwelt"
         ]
     }
 }
