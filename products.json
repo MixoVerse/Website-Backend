@@ -11,7 +11,8 @@
             "Teleportzeit 2.5 Sekunden",
             "Premium Discord-Rang",
             "Enderkisten Einsehen",
-            "/list"
+            "Spielerliste",
+            "Rückkehr zum letzten Teleportpunkt"
         ]
     },
     "prime": {
@@ -26,8 +27,9 @@
             "Teleportzeit 2 Sekunden",
             "Prime Discord-Rang",
             "Enderkisten Einsehen",
-            "/list",
-            "/tpahere",
+            "Spielerliste",
+            "Rückkehr zum letzten Teleportpunkt",
+            "Teleportanfragen zum aktuellen Ort",
             "Inventare Einsehen"
         ]
     },
@@ -43,8 +45,9 @@
             "Teleportzeit 1.5 Sekunden",
             "Epic Discord-Rang",
             "Enderkisten Einsehen",
-            "/list",
-            "/tpahere",
+            "Spielerliste",
+            "Rückkehr zum letzten Teleportpunkt",
+            "Teleportanfragen zum aktuellen Ort",
             "Inventare Einsehen",
             "Grundstück Alias",
             "Fly in der Plotwelt"
