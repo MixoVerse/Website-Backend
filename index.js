@@ -264,6 +264,15 @@ app.get(config.prefix + '/proxy/*', async(req, res, next) => {
     res.send(buffer)
 })
 
+app.get('/vote', (req, res, next) => {
+    res.redirect(`https://minecraftpocket-servers.com/server/83151/vote/`)
+})
+
+app.get('/vote/*', (req, res, next) => {
+    let name = req.originalUrl.split('/vote/')[1].split('/')[0].split('?')[0]
+    res.redirect(`https://minecraftpocket-servers.com/server/83151/vote/?username=${name}`)
+})
+
 app.listen(3030, () => {
     console.log(`Listening`)
 })
