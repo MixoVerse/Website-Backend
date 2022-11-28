@@ -12,7 +12,9 @@
             "Premium Discord-Rang",
             "Enderkisten Einsehen",
             "Spielerliste",
-            "Rückkehr zum letzten Teleportpunkt"
+            "Rückkehr zum letzten Teleportpunkt",
+            "Items umbenennen",
+            "Items signieren"
         ]
     },
     "prime": {
@@ -29,6 +31,8 @@
             "Enderkisten Einsehen",
             "Spielerliste",
             "Rückkehr zum letzten Teleportpunkt",
+            "Items umbenennen",
+            "Items signieren",
             "Teleportanfragen zum aktuellen Ort",
             "Inventare Einsehen"
         ]
@@ -47,6 +51,8 @@
             "Enderkisten Einsehen",
             "Spielerliste",
             "Rückkehr zum letzten Teleportpunkt",
+            "Items umbenennen",
+            "Items signieren",
             "Teleportanfragen zum aktuellen Ort",
             "Inventare Einsehen",
             "Grundstück Alias",
